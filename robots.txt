@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hooli-academie.netlify.app/sitemap.xml
+Sitemap: https://hooliacademie.com/sitemap.xml
